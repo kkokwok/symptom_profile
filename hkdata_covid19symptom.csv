@@ -1,1 +1,301 @@
-頭痛、咳嗽
+Number	Symptoms
+1	頭痛，喉嚨痛，咳嗽，發冷
+2	咳嗽，鼻水
+3	喉嚨痛，紅疹
+4	有痰，有鼻水
+5	流鼻水，痰
+6	發冷發热，喉嚨痛
+7	發冷，周身骨痛
+8	发烧37.5度
+9	喉嚨痛，感冒
+10	咳嗽、喉嚨痛
+11	咳嗽. 流鼻涕. 低烧
+12	咳嗽，喉部不適
+13	咳嗽、喉嚨痛、多痰
+14	肌肉疼痛，头晕。
+15	咳嗽 有痰
+16	抽筋，头胀，血压升高
+17	咳嗽，喉嚨痛
+18	咳嗽有痰，手腳痛及無力
+19	咳、喉嚨痕、頭痛、發冷
+20	耳膜發炎，耳嗚
+21	咳嗽，喉嚨痛，無力，呼吸不順
+22	咳，流鼻水
+23	頭痛，喉嚨痛，有痰，現在只有（痰）
+24	咳，喉嚨痛
+25	流鼻水,咳
+26	頭痛，鼻水，咳，感覺熱(探熱時有燒，時無燒)，覺得喉嚨有啲痰
+27	XX/X/2022 退燒, 期間有喉嚨痛到而家
+28	劇烈咳嗽, 喉嚨劇痛, 頭痛, 面及頸出紅疹,肚痾
+29	咳, 喉痛, 鼻塞, 周身骨痛, 渾身無力, 微燒
+30	低燒，小小喉嚨痛，幾天已沒事，同住家人沒確診
+31	微燒 喉嚨痛 咳嗽 肌肉及關節酸痛 畏寒怕冷
+32	咳、流鼻水、鼻塞、失嗅覺，初期有發燒(但已逐漸康復)
+33	快速測試陽性，肌肉不尋常痛，發冷，咳，疲勞
+34	喉嚨痛, 咳嗽, 流鼻水, 疲倦, 食慾不振, 味覺差
+35	XX日發燒，XX日開始已退燒，現在只有咳和喉嚨痛
+36	咳，喉痛，肌肉酸痛，全身乏力，精神有些微跳脫
+37	咳嗽、喉嚨痛、頭痛、流鼻水、發低燒（～37.5）
+38	早幾天曾經發燒超過38度，現傷風咳有痰比較累。
+39	嘔吐，輕度發燒，發冷，觸發舊患(長期病患,支氣管，肺和胃)
+40	咳，頭痛，XX號已經好返，什麼病徵也沒有，未做快速測試
+41	頭暈，嘔吐，咳嗽，喉嚨痛，有痰，流鼻水，鼻塞
+42	喉嚨痛，流鼻水，鼻塞，發冷，濃痰，咳嗽頻密
+43	有痰, 有鼻水, 咳嗽, 喉嚨乾, 少少肌肉酸痛
+44	肌肉關節疼，發冷發熱，心跳急速，晚間睡眠出汗
+45	咳嗽，發燒(攝氏37.8-38.3)，頭痛，肌肉疼痛
+46	咳 少少痰 鼻塞 頭痛 喉嚨乾 輕微喉嚨痛
+47	喉嚨痛發炎、咳（咳起有喘）、肌肉痛、傷風鼻塞
+48	頭痛 (同住人XX、XXXX，暫測試為陰性）
+49	輕微喉嚨痛（已康復），XX/XX/2022做快速測試呈陰性
+50	XX/XX/2022 已經沒有發燒。喉嚨痛亦已痊癒。
+51	發冷，喉嚨痛，咳嗽有痰，流鼻水，口干，尿頻，全身無力，行動困難，精神有迷糊，聽力困難_
+52	流鼻水, 發冷或顫抖,疲勞, 喉嚨痛 ,持續咳嗽, 聲音沙啞, 頭痛
+53	喉嚨痛，有咳，有痰，感冒，流鼻涕 (同住XXXX核酸檢測報告為陽性）
+54	輕微發燒、 頭痛、發冷、出汗、鼻塞、流鼻水、打乞嚏、咳、肌肉痛、聲沙、喉嚨痛
+55	X月XX日喉嚨痛，咳。。。依家已經康復了X月X日，X日，X日快測都轉陰性了
+56	肌肉痛，骨痛，喉嚨痛，背脊痛，發冷發熱，流鼻水，非常疲累，但無法入睡
+57	喉嚨痛 家中尚有XXXXXXXX初步陽性 仲有另一位有病症已檢測但未收到結果
+58	喉嚨痛和咳 XX/XX/2022已退燒 XX/XX/2022 病徵已痊愈
+59	初起時有乾咳, 鼻水; 今日X月XX日下午5時做快速測試為陰性
+60	疲倦，全身骨痛，發燒，發冷，咳嗽，多痰，頭痛，喉嚨唔舒服，有少少喉嚨痛
+61	流鼻水, 頭痛, 疲勞, 喉嚨痛, 持續咳嗽, 聲音沙啞, 發冷或顫抖, 頭暈, 不尋常肌肉疼痛
+62	X月XX日開始咳，XX日已流口水樣本測試，XX日開始發燒和咳嗽，現在已退燒只有咳嗽
+63	頭痛、勁喉嚨痛、吞嚥困難痛、咳嗽、痰多黃色、鼻涕、頸、膊、背痛、鼻塞、耳塞、疲倦
+64	咽喉感到紅腫，暫未有痛，有鼻涕，白色，稠，有白痰，少稠，肌肉酸痛
+65	輕微頭痛、少許痰及咳 （現在情況) （X月XX日晚開始有少許喉嚨不適）
+66	咳、有痰、流鼻水、喉嚨痕 （在XX/X，XX／X，XX/X快速測試己經陰性）
+67	咳,喉嚨痛,只在X月XX日發燒攝氏38.2度,X月XX日已冇發燒跡象
+68	XX號開始發燒37.6-37.4度間不退 容易疲倦 咳嗽 有少量痰
+69	有時咳嗽+噁吐（感覺是藥物卡有喉嚨，現在沒有了）+之前有些頭暈現在無
+70	X月XX日發燒及頭痛但當時陰性 X月XX日已退燒，現在喉嚨痛 咳嗽 流鼻水等
+71	流鼻水, 頭痛, 疲勞, 喉嚨痛, 持續咳嗽, 不尋常肌肉疼痛
+72	病微：大咳：星期X到星期X：現在轻松很多,精神也好很多：喉嚨也沒那麼痛
+73	開頭病發幾天有輕微發燒, 但不高於38度, 現在已沒有發燒徵狀
+74	最高39度，但已退燒。口腔吊鐘位置痛,XX號X午發燒做的快測都系陰性，直到X/X吊鐘痛做的快測就陽性
+75	(XX/XX)為第一天，發燒(>38度)，現時已退燒，只有少許喉嚨痛。
+76	咳嗽、有黃痰、喉嚨痛（吞口水痛、喉嚨發熱）、全身肌肉痛、骨痛、耳痛、眼痛、流鼻水、鼻塞、疲倦、無力、無胃口、胃痛、頭暈、頭痛、低燒、發冷、想嘔
+77	痰咳，X月X日快測陽性，X月X日已報XXXXXX快測陽性的熱線電話，收到送來物資，翌日交樽仔。已由X月X日開始自我家居隔離。不需安排隔離設施，謝謝！
+78	最初感冒 偶然會有流鼻水 打乞嚏 之後按時吃了 必理痛特強傷風感冒丸24粒裝 吃了22粒 接近三日三夜藥 現在X月X日已擊退流鼻水 打乞嚏 目前喉嚨有時會有少少痕癢 有時會有咳嗽 之後有時會有痰咳出
+79	肚瀉，於XX/XX往XXXXX，XX/X交深喉樣本，報藥後XX/X已康復，XX/X收到衛生署致電確定樣本為陽性，並於XX/X及XX/X做了2次快速檢測都是陰性
+80	有鼻水同間中有痰，XX/X自我檢查呈陽性並開始家居隔離，及後於X/X呈交樣本樽，並於X/X及X/X兩日自我檢測皆呈陰性。
+81	XX号下午开始喉嚨干，XX号早上X点多发烧37.6度，有头痛全身疲累，食朴热息痛后出汗2小時后退烧36.6度，XX号夜晚XX点又烧37.6度头痛骨痛又食朴热痛第二天XX号早上37.2度，喉嚨痛严重，一直维持37.2~37.4度之间，XX号夜晚XX点食2粒幸福伤福素到XX号早上X点37.2度，喉嚨痛，身體痛楚己减轻，还剩少许头痛，几日来都如常进食，精神狀態良好，今日XX:XX体温37度，由於不知道如何找支援时至今日才做检测
+82	X月X日快測呈陽性，X/XX-X/X發燒37.7-37.8，X/X-X/XX低燒37.2-37.5，痰咳，X月X日至今快測已呈陰性
+83	發燒(<38度)、周身痛、咳嗽 (現在已沒有病徵。另外, 因為同住家人, XXXXX和XXXX也一齊收到初陽短訊,所以沒有在下面填寫其資料)
+84	本人有喘息性支氣管炎，確診後幾天有不間斷的呼吸困難，但沒有之前的喘息性支氣管炎嚴重，非常輕微，懷疑是心裡作，呼吸困難
+85	咽口乾轉喉嚨痛, X月XX日開始做快檢及吃成藥, X月XX日轉食連花清温膠囊後已通了, 可否在家隔離嗎
+86	喉嚨痛（XX/X-XX/X），但已自我康復。胃痛，空肚沒有事，但有食物落肚就會痛（XX/X 開始至現在）。 有少少痰
+87	喉嚨痛為主, 有痰, 肌肉痛. (由X/X開始快測轉為陰性, X/X再遞交核酸檢測, X/X收到結果為陰性)
+88	初發有少少喉嚨痕，好少咳，少少鼻水，完全冇發燒，病徵好輕微，至今康覆中，很精神，一點不似染病，會自我家居隔離至14日，抗疫物資充足
+89	咳，有咳，感冒。XXXXX，長期食XX+XXX，頸腫大好多，耳鳴（右耳不停響）XX-XX號發燒食藥退燒，XX-XX開始不發燒，但開始氣促呼吸困難，XX號早上又開始發燒
+90	發燒超過38度時，喝了退燒藥就退掉燒了。後面喉嚨有點痛，吃了消炎藥目前維持正常。每天堅持吃蓮花清瘟膠囊和消炎藥還有抗生素
+91	沒有胃口 嘔吐 幾日沒吃東西 肚子會劇痛(痛起上來會控制不到)沒有大便 小便一日一至兩次 XX/X已XXX(因醫生說未有床位叫先回家觀察，最後只是拎藥後回家觀察)因為肚痛難耐 肚痛發作意識有點迷糊 要拍打叫他才勉強有反應 體重已加速下降
+92	第天體温38.8，后持續低燒37.3—37.7上下波動，咳嗽厲害，部位深痰多，偶尔會胸悶。三年前XXXXXXXXX，八个月前XXXXXXXXXXXXXXX，
+93	發病日(XX/X)時有喉嚨腫痛及發燒, 現在 (XX/X) 症狀已沒有了, XX/X日起已在家自我隔離.
+94	咽喉發炎(少許痛），聲沙，鼻塞，喉嚨痕引起咳，徵狀只維持了數天，現在由發病起計已XX天，之前徵狀巳消失
+95	低燒，喉嚨痛，流鼻水，咳痰（本人自己係屋企隔離就得，無需去隔離措拖，亦無需任何物資支援，更加唔需要工作人員上門做任何工作。本人只是履行公民責任呈報政府。自發病碓診後沒出過門，本人承諾XXXXXXXXXXXXXXXXXXXXXXXXXXXX。謝謝!）
+96	我有傷風，喉嚨痛, 咳。於XX/X利用快速測試為陽性，一直聯絡不到人收回樽仔。家中已有X人利用快速測試為陽性，包括XX及XXX。
+97	喉嚨痛、咳、疲累；（X月XX日做了第一次深喉檢測，一直沒收到結果）（快速檢測X月XX日陽性，X月XX日已陰性；現已康復）（請問怎樣取醫學豁免書，稍後才接種疫苗？）
+98	本人X天前有點徵狀, 有點頭痛和輕微咳, 現在已差不多康復。XX因已約打第X針, 想確認一下身體情況再去打, 做了快速呈陽性。
+99	X月XX凌晨咳嗽無發燒，X月XX看私家診所醫生無發燒，X月XX發燒，X月XXXX看中醫後漸康復，偶爾咳嗽
+100	X月XX號開始喉嚨痛！XX號聲沙跟住怱冷忽熱周身骨痛！到XX號交口水樽測驗，XX號有報告出來陰性！現在自我測試咗X次都係阴性啦
+101	sore throat
+102	asymptomatic
+103	Asymptomatic
+104	cough
+105	throat pain, cough
+106	sore throat, cough
+107	asymptomatic
+108	Headache, Nausea
+109	asymptomatic
+110	SORE THROAT
+111	sore throat, cough
+112	asymptomatic
+113	fever, runny nose
+114	asymptomatic
+115	sore throat, cough
+116	Fever, cough
+117	Asymptomatic
+118	asymptomatic
+119	asymptomatic
+120	Cough, Sore throat
+121	Coughing
+122	fever, body ache
+123	Cough
+124	sore throat
+125	asymptomatic
+126	Sore throat, headache
+127	fever, cough, headache
+128	fever, sore throat, cough
+129	cough, sore throat, runny nose
+130	Fever, cough, itchy throat
+131	Sore throat, cough and sputum
+132	Cough with sputum, myalgia
+133	fever, cough, runny nose
+134	sore throat, cough, runny nose
+135	fever, cough, runny nose
+136	sore throat, cough, headache
+137	fever, sore throat, cough
+138	sore throat and cough
+139	sore throat, stuffy nose
+140	Fever, sore throat, cough
+141	fever, runny nose, fatigue
+142	Fever 37.5, sore throat, cough
+143	Fever, sore throat, cough
+144	cough, headache, chills, rigor
+145	fever, sore throat, cough
+146	sore throat, cough, runny nose
+147	Sore throat, Cough, Runny nose
+148	sore throat, cough, headache
+149	Running nose, cough, sputum
+150	sore throat, cough, runny nose
+151	fever, sore throat, cough, runny nose
+152	sore throat, cough, runny nose, headache
+153	Fever, sore throat, cough, runny nose, vomiting
+154	General body weakness, mild headache, shivers
+155	fever, sore throat, cough, headache
+156	fever, sore throat, cough, runny nose, headache
+157	Cough with sputum but RAT negative on X XXXXX
+158	Fever, sore throat, cough, diarrhea
+159	Fever, sore throat, cough, headache
+160	sore throat, cough, runny nose, chills and rigor
+161	sore throat, cough, runny nose, headache
+162	Sore throat, headache, runny nose and malaise
+163	Fever, sore throat, headachhe and diarrhoea
+164	fever, sore throat, cough, runny nose
+165	fever, SOB, runny nose, vomiting
+166	fever, sore throat, cough, runny nose, joint pain
+167	sore throat, cough, runny nose, fatique
+168	Loss of smell and taste, headache
+169	Fever, Cough, Sore throat, Runny nose
+170	Loss of smell and  shortness of breath
+171	Fever, sore throat, cough and runny nose
+172	sore throat, cough, SOB, runny nose, sputum
+173	headache, back pain, joint pain
+174	fever, sore throat, cough, runny nose, headache
+175	fever, sore throat, cough, runny nose
+176	fever, sore throat, cough, runny nose, fatigue, dry throat
+177	fever, sore throat, cough, runny nose, headache, stomache
+178	sore throat, cough, SOB, runny nose, nausea, loss of taste and smell
+179	Fever, runny nose, cough, sore throat, headache, diarrhea
+180	Fever, sore throat, cough, runny nose, nausea, diarrhea
+181	fever, sore throat, cough, runny nose, headache, diarrhoea
+182	mainly cough, do the rapid test at home after X days, now the result is negative
+183	fever, sore throat, cough, runny nose, headache, diarrhea
+184	Sore throat, Coughing, sneezing, muscle aches, headache
+185	Sore throat, muscle pain, headache, cough and running nose
+186	Fever(38C), Sore throat, Cough, Runny nose, Headache, Diarrhoea
+187	Fever, sore throat, cough, runny nose, headache, diarrhea
+188	Fever, Sore throat, cough, tiredness, muscle pain, muscle pain
+189	sore throat, cough, runny nose, shortness of breath
+190	Sore throat, cough, runny nose, headache, blocked nose, fatigue, muscle pain
+191	Fever, sore throat, cough, SOB, runny nose, headache
+192	Fever, sore throat, cough, runny nose, headache, loss of smell, vomit
+193	sore throat, runny nose, chest pain, breathing difficulty
+194	Fever, sore throat, cough, runny nose, headache, chills
+195	fever, sore throat, cough,runny nose, headache, diarrhoea
+196	Just not feel well as flu symtons, headache, low temperature fever 37.50-37.90 c
+197	Subjective fever, sore throat, myalgia, cough, runny nose
+198	coughing and watery nose, low fever, dizziness, vomiting
+199	Sore throat, Fast heartbeat (over 130 pulse per min) on XX/XXX morning
+200	Sore throat, cough, runny nose, diarrhoea, dizziness
+201	輕微發燒<38°C, 咳
+202	咳, fever
+203	流鼻水，發燒(無check幾度)
+204	聲線沙啞, cough
+205	咳, 有痰l
+206	喉嚨有D痛同耐唔耐有兩聲咳
+207	少少頭痛，有d發冷，口干⁰
+208	头疼, Cough
+209	發燒 (38C); 頭痛; 喉嚨痛
+210	Fever, 發冷
+211	喉嚨痛，痰咳，微燒(37.7°C)
+212	咽喉炎, sore throat
+213	微燒 37.X，周身骨痛
+214	Fever,  咳嗽、發冷、喉嚨痛、疲累
+215	咳嗽, sore throat
+216	有D咳及筋肌酸痛
+217	發冷、有咳、屙嘔、有痰、胸口有D痛
+218	nausea, 發冷發熱, 骨痛
+219	有D咳同傷風
+220	喉嚨痛, diarrhea
+221	患有哮喘，CT值XXXXX
+222	喉嚨痛同咳, runny nose
+223	喉嚨好痛，咳得利害時有d氣促，頭痛，鼻水
+224	loss of smell, 發冷發熱
+225	咳嗽only
+226	現偶咳，曾低燒<38度C，前日起已無燒正常
+227	曾喉咙痛流鼻水轻微咳嗽，X月XX日快速检测已阴性至今。
+228	有些喉嚨痛和少許咳嗽和微燒97.7-99.3F
+229	喉嚨痛，肌肉痛，頭痛，疲倦無力，低燒37.2C
+230	發燒37.3°c、發冷發熱、少咳、流鼻水、全身酸軟乏力
+231	XXXXX高燒，同住人全部呈陽，希望政府快支援
+232	咳，喉嚨痛及有鼻水，now the symptom 已減少。
+233	sore throat, cough, 發冷
+234	有痰, 攰, 但無咳, 無發燒, 快速測試positive
+235	有怕少少冷，有D咳和有些痰，兩天左右只剩下有少少痰
+236	Sorethroat, 肌肉痛，tired,有啲咳同鼻水
+237	咳, 鼻水, 身體乏力, 快速測試Positive
+238	咳，鼻涕 (remarks: 現時所有症狀都是輕微)
+239	背瘠骨痛, cough, diarrhoea
+240	少喉嚨痛，少咳，少鼻水，於2O22年X月XX已康復
+241	頭痛 喉嚨痛 鼻塞, nausea, diarrhoea
+242	XX-XX XXX 有發燒和喉嚨痛，之後到現在都冇以上症狀
+243	咳同有D痰，有時頭重重，好似感冒咁，有時眼會有流眼水狀況
+244	Nose, Sore Throat, 有痰
+245	氣管痕有痰鼻塞肌肉痛 XX XXX 2022快測陽性
+246	Headache, 鼻塞, Throat itchness
+247	咳，但今天才收到檢測包，RAT自我檢測已轉陰性
+248	咳嗽, XX/XX/2022 PRC 陰性
+249	鼻塞, loss of taste nd smell
+250	Fever, Sore throat, 感冒
+251	fever, sore throat, cough, runny nose, 氣管敏感
+252	fever, sore throat, cough, 周身骨痛
+253	Fever 38.5℃, Sore throat, Cough, 耳仔痛
+254	头痛(現已康復呈陰性)XXXX，請用短訊联絡或whatsapp
+255	發燒(around 37度)、喉嚨痛、乏力、頭痛、肌肉痛&關節疼痛
+256	喉嚨痛及發炎；鼻膜痛及發炎；有痰；腰，背痛，diaphragm 痛
+257	fever, sore throat, chest pain, palpitation, 氣管敏感
+258	cough, runny nose, throat discomfort, 四肢無力
+259	X月XX日發燒(38-39.4C)，服用醫生處方抗生素，X月XX日退燒，但開始有鼻水，咳嗽等徵狀
+260	sore throat, cough, tired, 周身骨痛
+261	XX/X Xpm 發燒38.6, 食panadol 後37.8
+262	Fever (38.5°C), 咳嗽有痰, Runny nose, Headache, Chills
+263	Fever below 38。C, sore throat, fatigue
+264	36.8c, 沒有特別症狀,少許喉嚨痛少許冷沒有特別咳嗽沒有鼻涕鼻水
+265	咳嗽 start on XXXXX2022; 咳嗽有黃痰 start on XXXXX2022
+266	Cough, Painful Throat, 流鼻水、周身骨痛
+267	咳,傷風徵狀,喉嚨痛, runny nose, headache
+268	流鼻水 喉嚨痛 咳 肌肉酸痛 (之前提交tick錯了呼吸困難）)
+269	微燒，頭痛，喉嚨痛！ 檔案編號XXXXXXXXXXXXXXXXXXXX 同住家人昨天已確疹
+270	Headache, muscle pain, 發冷，cough
+271	bone pain, chills & fever (發冷發熱)
+272	喉嚨有黃痰，有XXXXXXX，剛完成XX，但未完成XX，身體抵抗力差
+273	headache, sore throat, 骨痛，cough 有啖, fever
+274	sore throat, cough, runny nose, 骨痛
+275	fever, cough, runny nose, headache, sputum, 聲沙
+276	發燒（不足38度），頭痛，喉嚨痛等，現症狀已經減輕，只剩下喉嚨發炎&痰。短期內（一－二個月）我是全家中唯一生病的人。注：本人為XXXXXX
+277	X月XX日發燒，食panadol後，X月XX日已退燒，X月XX日到XXXXX，現少少喉嚨痛，輕微咳，如感冒，頭重重，比較攰。
+278	鼻塞, (另XXXX為於XX/X/2022確診Preliminary Positive (樣本號碼 : XXXXXXXXXX), 另XX/X/2022XX和XX用快速檢測也是 Positive)
+279	Fever, sore throat, runny nose, diarrhoea,  咳、頭暈、胃痛
+280	本人同日X月XX曰在政府採站做咗檢查陰性報告，XX日已XXXX往XX.X月XX日醫院做的報告X月XX日説初步陽性。X月XX日有陽性報告。。X月XX-XX 發燒37。C 喉嚨痛 咳
+281	cough  (本人已經康服, 於X/X,及X/X 用快測包測過都是陰性, 已拍下照片方便衛生中心跟進
+282	血氧82；咳嗽；鼻水、鼻涕、有痰、味覺欠差。本身有XXXXXXXXX和XXX，希望可以安排入院進行醫學監察
+283	喉嚨唔舒服, 手腳冰冷。XX/XX/2022 go to consult doctor, XX/XX/2022X午退燒。
+284	咳嗽(喘咳)較為頻密、咳出痰呈綠、黃及白色，喉嚨些少乾涸痛，胸口中間些少痛，頭痛，些少時冷時熱。 我本人於XX-XXX-2022確診感染Omicron病毒；同住XXXX於XX-XXX-2022確診感染Omicron病毒。
+285	fever, sore throat, cough, headache, 肌肉痛, dizziness
+286	咳， X月XX日XX：XXXX，到XXXXXX打XXX疫苗後，回家開始有咳。 陪同打針的人士在XX日出現病徵，流鼻水發冷，快速測試亦已確診。
+287	快速測試懷疑初步確診，留心看可看到 T 字位隔離有一條白色線；頭重，忽冷忽熱，腰酸，喉嚨痛，有疴，想嘔
+288	微發燒(XX to XX/X/2022),咳,痰 (No. XXXXXX) (同住 X人有相同病徵(XX/X/2022病發))
+289	(早前已填寫另一份表格，因前後做了X次測試-分別在XXXX及XXXXXXX XXXXXX, 故共收X次短訊通知）已退燒、已沒有胸痛、仍有少許咳及痰、說話時有氣喘
+290	喉嚨痛、腎痛、好疲倦 (我係長期病患者:XXXXXXXXXX XXXXXX and XXXXX XXXXXXX
+291	喉嚨有啲痛… 耳仔後面間中掩掩痛… 好間唔中會想咳 (乾咳)…… 發病詳情：我最後XX係 XXX XX… 日頭冇事… 係  XXX XX 晚XXX途中或之後覺得喉嚨有少少唔舒服… 再晏啲個人就熱熱哋同頭痛同肌肉酸痛…   到 XXX XX 朝早見都係咁上下…走去做快測…  雖然果日快測只得一條線…但為穩陣起建… 我 XXX XX XXXXXX… 喺屋企食咗幾次藥就好返啲… 個人冇熱冇肌肉酸痛冇頭痛… 但喉嚨仲有少少唔舒服…  到 XXX XX 朝喉嚨痛多咗啲啲… 耳仔後間唔中掩掩痛… 冇其他唔妥… 做一次快測… 就出咗兩條線… 於是就上嚟填 form 呈報…
+292	咳，流鼻水,X月XX日快速檢測陽性，現仍在等待X月XX日核酸檢測XXXXXXXXXX結果，已於X月XX日前往指定診所就診，徵狀已開始減退
+293	喉嚨痛, 微發燒37.8度 （於XX/X/22, XXXXPCR檢測呈陽性, 其後一直在家隔離, 但至今仍未有收到任何支援或跟進, 未知確診者編號X XXXXXX, 未有手環、檢測套裝或檢疫令, 非常困擾！請盡快聯絡我跟進！）
+294	fever, sore throat, cough, runny nose, headache, diaahoea, 有失禁
+295	XX/X在家突然暈倒約2分鐘, 醒後血壓低, 沒其他問題, 沒求醫, 已痊癒。本人傳了給家人, 家人於XX/X發病, 有求醫及做深喉唾液核酸測試, 家人XX/X收到SMS, 根據SMS上的連結已呈報, 檔案號是XXXXXXXXXXXXXXXXXXXX。家人於XX/X發病, 沒求醫但於XX/X做了快速測試呈陽性。本人是XX/X收SMS的, SMS上沒有這呈報連結, 由於衞生防護中心也從未聯絡本人, 所以現在利用這表格呈報本人資料。
+296	曾發燒及嘔吐，XX/XX/2022巳退燒亦沒有再嘔吐，現時仍有少量咳，鼻窒及多痰 (衛生署於XX/XX/2022約XXX點提供確診編號XXXXXX)
+297	X月XX号晚上觉得自己好冷，有点感冒症状，快速检测阴性，XX号流鼻涕，喉咙痒，肌肉酸痛，快速检测阴性，XX号喉咙痒，快速检测阴性，XX号喉咙痒，快速检测阳性，XX号喉咙痒，快速检测阳性，XX号，没有不适，快速检测阳性，X月X号，没有不适，快速检测阳性，X月X号，没有不适，快速检测阳性，X月X号，没有不适，快速检测阳性，X月X号，没有不适，快速检测阴性，X月X号，没有不适，快速检测阴性，X月X号，没有不适，快速检测阴性，X月X号没有不适，没有不适，快速检测，但是收到HKSARG的短信为初步阳性，采集样本日期为X月X号
+298	編號XXXXXXXXXXXXXXXXXXXX,我之前錯誤在核酸檢測陽性網頁申報,事實我在X月XX日快速檢測陽性,已過了X日,現在重新申報
+299	之前有咳，喉嚨痛，頭痛，肌肉酸痛，現在已沒有註：同住者X是我XXXX，XXXXXXXXXXXXXXXXX，XXXXXXXXXXXX，XXXXXXXXXXXXXXXXXX，XX XXXXXXXXXXXXXXXXXXXX
+300	已在上樣本樽號XXXXXXXXXX申報時說明了，現已身體恢復了，已於XX-XX-XX-XX（今日）自己快速測試為一條線陰性！
